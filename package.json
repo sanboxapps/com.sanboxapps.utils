@@ -5,7 +5,6 @@
 	"unity": "2019.1",
 	"description": "A collection of commonly used tools, and utils for faster development",
 	"dependencies": {
-		"com.ms.shell": "https://github.com/wlgys8/UnityShell.git",
 		"com.unity.textmeshpro": "2.0.1",
     "com.unity.probuilder": "4.2.3"
 	},
